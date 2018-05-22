@@ -1,4 +1,17 @@
-# /usr/bin/env python
+#!/usr/bin/env python
+#-*- coding:utf-8 -*-
+#       FileName:  talker.py
+#
+#    Description:
+#
+#        Version:  1.0
+#        Created:  2018-05-22 10:41:45
+#  Last Modified:  2018-05-22 10:41:47
+#       Revision:  none
+#       Compiler:  gcc
+#
+#         Author:  zt ()
+#   Organization:
 
 import rospy
 from std_msgs.msg import String
